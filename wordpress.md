@@ -1,9 +1,8 @@
 Wordpress
 ---
 
-* [Tipos Personalizados (Custom Types)](#tipos-personalizados)
+* [Custom Types](#custom-types)
 
-
-## Tipos Personalizados
-- [Guía completa para personalizar tipos de posts - Smashing Magazine (Ingles)](http://www.smashingmagazine.com/2012/11/08/complete-guide-custom-post-types/)
-- [Crear tipos Personalizados en Worpress - Códigonexo](http://www.codigonexo.com/blog/wordpress-programadores/crear-tipos-personalizados-en-wordpress/)
+## Custom Types
+- [The Complete Guide To Custom Post Types  - Smashing  Magazine](http://www.smashingmagazine.com/2012/11/08/complete-guide-custom-post-types/)
+- [Create custom types in wordpress - Códigonexo (Spanish)](http://www.codigonexo.com/blog/wordpress-programadores/crear-tipos-personalizados-en-wordpress/)
