@@ -1,9 +1,13 @@
 AngularJS
 ---
+- [Core](#core)
 - [Directives](#directives)
 - [Interview Questions](#interview-questions)
 - [Learning](#learning)
 - [Resources](#resources)
+
+## Core
+- [Understanding apply() and digest() in AngularJS](https://www.airpair.com/javascript/posts/understanding-apply-and-digest-in-angularjs)
 
 ## Directives
 - [A Guide To Transclusion in AngularJS](http://teropa.info/blog/2015/06/09/transclusion.html)
