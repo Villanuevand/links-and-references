@@ -4,6 +4,7 @@ AngularJS
 - [Directives](#directives)
 - [Interview Questions](#interview-questions)
 - [Learning](#learning)
+- [Promises](#promises)
 - [Resources](#resources)
 
 ## Core
@@ -20,5 +21,7 @@ AngularJS
 - [Shaping up with Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 - [Build jQuery gallery directive / Spanish](http://house1690.blogspot.com/2015/06/crear-una-directiva-angular-con-una.html)
 
+##Promises
+- [Promises And Design Patterns In AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
 ##Resources
 - [21 Useful Workflow Tools for AngularJS Developers](http://codecondo.com/useful-workflow-tools-for-angularjs-developers/)
