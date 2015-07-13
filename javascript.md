@@ -15,6 +15,7 @@ Javascript
 ## Patterns
   - [Module Pattern in depth - Etnassof (Spanish)](http://www.etnassoft.com/2011/04/11/el-patron-de-modulo-en-javascript-en-profundidad/).
   - [Module Pattern: In-Depth - Adequately Good](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
+  - [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Prototypal Inheritance
   - [Prototypal Inheritance - Etnassoft (Spanish)](http://www.etnassoft.com/2011/04/15/concepto-de-herencia-prototipica-en-javascript/)  
