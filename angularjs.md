@@ -20,8 +20,10 @@ AngularJS
 - [ng-Learn](http://ng-learn.org/)
 - [Shaping up with Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 - [Build jQuery gallery directive / Spanish](http://house1690.blogspot.com/2015/06/crear-una-directiva-angular-con-una.html)
+- [Angular Tutorial Part 1 of 9 - Rahul Rajat Singh | Code Project  ](http://www.codeproject.com/Articles/993297/Angular-Tutorial-Part-Introduction-to-Angular-js)
 
 ##Promises
 - [Promises And Design Patterns In AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
+
 ##Resources
 - [21 Useful Workflow Tools for AngularJS Developers](http://codecondo.com/useful-workflow-tools-for-angularjs-developers/)
