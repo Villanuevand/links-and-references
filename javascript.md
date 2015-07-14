@@ -2,6 +2,7 @@ Javascript
 ---
 * [Libraries](#libraries).
 * [Best Practices](#best-practices).
+* [Inheritance](#inheritance).
 * [Awesome Stuff](#awesome-stuff)
 * [Patterns](#patterns).
 * [Prototypal Inheritance](#prototypal-inheritance).
@@ -13,6 +14,12 @@ Javascript
   - [Toptal - Javascript Best Practices](http://www.toptal.com/javascript/tips-and-practice)
   - [idiomatic.js, Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
  
+  
+## Inheritance
+- [Simple JavaScript Inheritance - John Resig](http://ejohn.org/blog/simple-javascript-inheritance/)
+
+
+
 ## Awesome Stuff
 - [Merge Arrays with JavaScript - David Walsh](http://davidwalsh.name/merge-arrays-javascript)
 
