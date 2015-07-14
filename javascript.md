@@ -2,6 +2,7 @@ Javascript
 ---
 * [Libraries](#libraries).
 * [Best Practices](#best-practices).
+* [Awesome Stuff](#awesome-stuff)
 * [Patterns](#patterns).
 * [Prototypal Inheritance](#prototypal-inheritance).
 
@@ -11,7 +12,11 @@ Javascript
 ## Best Practices
   - [Toptal - Javascript Best Practices](http://www.toptal.com/javascript/tips-and-practice)
   - [idiomatic.js, Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
-  
+ 
+## Awesome Stuff
+- [Merge Arrays with JavaScript - David Walsh](http://davidwalsh.name/merge-arrays-javascript)
+
+
 ## Patterns
   - [Module Pattern in depth - Etnassof (Spanish)](http://www.etnassoft.com/2011/04/11/el-patron-de-modulo-en-javascript-en-profundidad/).
   - [Module Pattern: In-Depth - Adequately Good](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
