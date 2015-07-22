@@ -1,4 +1,4 @@
-AngularJS
+Angular
 ---
 - [Core](#core)
 - [Directives](#directives)
