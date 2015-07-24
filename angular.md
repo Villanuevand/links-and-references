@@ -6,6 +6,7 @@ Angular
 - [Learning](#learning)
 - [Promises](#promises)
 - [Resources](#resources)
+- [Modules](#modules)
 
 ## Core
 - [Understanding apply() and digest() in AngularJS](https://www.airpair.com/javascript/posts/understanding-apply-and-digest-in-angularjs)
@@ -29,3 +30,7 @@ Angular
 
 ##Resources
 - [21 Useful Workflow Tools for AngularJS Developers](http://codecondo.com/useful-workflow-tools-for-angularjs-developers/)
+
+##Modules
+- [UI-Router](#ui-router)
+  - [Easier AngularJS Routing with Angular UI Router | Code Magazine](http://www.codemag.com/Article/1505061)
