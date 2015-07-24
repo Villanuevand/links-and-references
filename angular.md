@@ -32,5 +32,5 @@ Angular
 - [21 Useful Workflow Tools for AngularJS Developers](http://codecondo.com/useful-workflow-tools-for-angularjs-developers/)
 
 ##Modules
-- [UI-Router](#ui-router)
+- **UI-Router**
   - [Easier AngularJS Routing with Angular UI Router | Code Magazine](http://www.codemag.com/Article/1505061)
