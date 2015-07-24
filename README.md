@@ -9,3 +9,4 @@ Links and references about web development topics.
 - [Javascript](https://github.com/Villanuevand/links-and-references/blob/master/javascript.md "Javascript").
 - [Frontend](https://github.com/Villanuevand/links-and-references/blob/master/frontend.md "Frontend").
 - [Wordpress](https://github.com/Villanuevand/links-and-references/blob/master/wordpress.md "Wordpress").
+- [Blogs]((https://github.com/Villanuevand/links-and-references/blob/master/blogs.md "Blogs").
