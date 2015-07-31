@@ -34,3 +34,4 @@ Angular
 ##Modules
 - **UI-Router**
   - [Easier AngularJS Routing with Angular UI Router | Code Magazine](http://www.codemag.com/Article/1505061)
+  - [Defining optional parameters with AngularJS UI Router | Bes Foster](http://benfoster.io/blog/ui-router-optional-parameters)
