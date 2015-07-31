@@ -3,7 +3,7 @@ Javascript
 * [Libraries](#libraries).
 * [Best Practices](#best-practices).
 * [Inheritance](#inheritance).
-* [Awesome Stuff](#awesome-stuff)
+* [Interesting](#interesting)
 * [Patterns](#patterns).
 * [Prototypal Inheritance](#prototypal-inheritance).
 
@@ -20,8 +20,9 @@ Javascript
 
 
 
-## Awesome Stuff
+## Interesting
 - [Merge Arrays with JavaScript - David Walsh](http://davidwalsh.name/merge-arrays-javascript)
+- [What is the difference between call and apply?](http://stackoverflow.com/questions/1986896/what-is-the-difference-between-call-and-apply)
 
 
 ## Patterns
