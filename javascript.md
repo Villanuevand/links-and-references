@@ -17,7 +17,7 @@ Javascript
   
 ## Inheritance
 - [Simple JavaScript Inheritance - John Resig](http://ejohn.org/blog/simple-javascript-inheritance/)
-
+- [JavaScript inheritance patterns](https://medium.com/@PitaJ/javascript-inheritance-patterns-179d8f6c143c)
 
 
 ## Interesting
