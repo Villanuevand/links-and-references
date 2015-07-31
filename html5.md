@@ -4,3 +4,4 @@ HTML5
 
 ## Templates
 - [HTML5UP - Site templates](http://html5up.net/)
+- [Templated](http://templated.co/)
