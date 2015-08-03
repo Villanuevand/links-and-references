@@ -31,6 +31,7 @@ Angular
 
 ##Resources
 - [21 Useful Workflow Tools for AngularJS Developers](http://codecondo.com/useful-workflow-tools-for-angularjs-developers/)
+- [AngularJS Modularization & Dependency Injection](http://tutorials.jenkov.com/angularjs/dependency-injection.html)
 
 ##Modules
 - **UI-Router**
