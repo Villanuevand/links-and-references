@@ -13,6 +13,7 @@ Angular
 - [Providers - Egghead.io ](https://egghead.io/lessons/angularjs-providers)
 - [Service Providers in AngularJS + Logger Implementation](http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/)
 - [Factory vs Service vs Provider - Tyler McGinnis](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
+- [Providers under the hood - Adrian Castillo](http://blog.crowdint.com/2015/03/18/angularjs-providers-under-the-hood.html)
 
 ## Directives
 - [A Guide To Transclusion in AngularJS](http://teropa.info/blog/2015/06/09/transclusion.html)
