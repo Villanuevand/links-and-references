@@ -10,6 +10,9 @@ Angular
 
 ## Core
 - [Understanding apply() and digest() in AngularJS](https://www.airpair.com/javascript/posts/understanding-apply-and-digest-in-angularjs)
+- [Providers - Egghead.io ](https://egghead.io/lessons/angularjs-providers)
+- [Service Providers in AngularJS + Logger Implementation](http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/)
+- [Factory vs Service vs Provider - Tyler McGinnis](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 
 ## Directives
 - [A Guide To Transclusion in AngularJS](http://teropa.info/blog/2015/06/09/transclusion.html)
