@@ -14,6 +14,7 @@ Angular
 - [Service Providers in AngularJS + Logger Implementation](http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/)
 - [Factory vs Service vs Provider - Tyler McGinnis](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 - [Providers under the hood - Adrian Castillo](http://blog.crowdint.com/2015/03/18/angularjs-providers-under-the-hood.html)
+- [AngularJS’ Internals In Depth - Smashing Magazine](http://www.smashingmagazine.com/2015/01/angularjs-internals-in-depth/)
 
 ## Directives
 - [A Guide To Transclusion in AngularJS](http://teropa.info/blog/2015/06/09/transclusion.html)
