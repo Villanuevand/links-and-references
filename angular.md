@@ -8,6 +8,7 @@ Angular
 - [Promises](#promises)
 - [Resources](#resources)
 - [Modules](#modules)
+- [Optimization](#optimization)
 
 ## Core
 - [Understanding apply() and digest() in AngularJS](https://www.airpair.com/javascript/posts/understanding-apply-and-digest-in-angularjs)
@@ -49,3 +50,6 @@ Angular
 - **UI-Router**
   - [Easier AngularJS Routing with Angular UI Router | Code Magazine](http://www.codemag.com/Article/1505061)
   - [Defining optional parameters with AngularJS UI Router | Bes Foster](http://benfoster.io/blog/ui-router-optional-parameters)
+  
+## Optimization
+- [Speeding up AngularJS apps with simple optimizations](https://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations)
