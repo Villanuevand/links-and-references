@@ -21,6 +21,7 @@ Angular
 - [John Papa - Angular Style Guide ](https://github.com/johnpapa/angular-styleguide)
 - [Todd Motto - Angular Style Guide ](https://github.com/toddmotto/angularjs-styleguide)
 - [Minko Gechev - Angular Style Guide](https://mgechev.github.io/angularjs-style-guide/)
+
 ## Directives
 - [A Guide To Transclusion in AngularJS](http://teropa.info/blog/2015/06/09/transclusion.html)
 - [Using ngModel in Custom Directives - Video](https://egghead.io/lessons/angularjs-using-ngmodel-in-custom-directives)
