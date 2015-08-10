@@ -1,6 +1,7 @@
 Angular
 ---
 - [Core](#core)
+- [Style Guides](#styel-guides)
 - [Directives](#directives)
 - [Interview Questions](#interview-questions)
 - [Learning](#learning)
@@ -16,6 +17,10 @@ Angular
 - [Providers under the hood - Adrian Castillo](http://blog.crowdint.com/2015/03/18/angularjs-providers-under-the-hood.html)
 - [AngularJS’ Internals In Depth - Smashing Magazine](http://www.smashingmagazine.com/2015/01/angularjs-internals-in-depth/)
 
+##Style Guides
+- [John Papa - Angular Style Guide ](https://github.com/johnpapa/angular-styleguide)
+- [Todd Motto - Angular Style Guide ](https://github.com/toddmotto/angularjs-styleguide)
+- [Minko Gechev - Angular Style Guide](https://mgechev.github.io/angularjs-style-guide/)
 ## Directives
 - [A Guide To Transclusion in AngularJS](http://teropa.info/blog/2015/06/09/transclusion.html)
 - [Using ngModel in Custom Directives - Video](https://egghead.io/lessons/angularjs-using-ngmodel-in-custom-directives)
