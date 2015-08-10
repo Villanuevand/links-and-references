@@ -2,6 +2,7 @@ Javascript
 ---
 * [Libraries](#libraries).
 * [Best Practices](#best-practices).
+* [Style Guides](#style-guides)
 * [Inheritance](#inheritance).
 * [Interesting](#interesting)
 * [Patterns](#patterns).
@@ -16,7 +17,13 @@ Javascript
   - [idiomatic.js, Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
   - [JSCS — JavaScript Code Style JSCS](http://jscs.info/)
  
-  
+## Style Guides
+- [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+- [Mozilla's JavaScript style guide](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style)
+- [GitHub's JavaScript style guide](https://github.com/styleguide/javascript)
+- [Douglas Crockford's JavaScript style guide](http://javascript.crockford.com/code.html)
+- [Airbnb JavaScript style guide](https://github.com/airbnb/javascript)
+
 ## Inheritance
 - [Simple JavaScript Inheritance - John Resig](http://ejohn.org/blog/simple-javascript-inheritance/)
 - [JavaScript inheritance patterns](https://medium.com/@PitaJ/javascript-inheritance-patterns-179d8f6c143c)
