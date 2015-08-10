@@ -39,6 +39,7 @@ Angular
 
 ##Promises
 - [Promises And Design Patterns In AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
+- [Angular Promises – then vs success](http://www.syntaxsuccess.com/viewarticle/angular-promises%E2%80%93then-vs-success)
 
 ##Resources
 - [21 Useful Workflow Tools for AngularJS Developers](http://codecondo.com/useful-workflow-tools-for-angularjs-developers/)
