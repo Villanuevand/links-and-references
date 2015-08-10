@@ -7,6 +7,5 @@ Blogs!
 - [Syntax Success](http://www.syntaxsuccess.com/)
 - [SitePoint](http://www.sitepoint.com/)
 - [InfoQ](http://www.infoq.com/)
-- 
 
 
