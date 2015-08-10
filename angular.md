@@ -1,7 +1,7 @@
 Angular
 ---
 - [Core](#core)
-- [Style Guides](#styel-guides)
+- [Style Guides](#style-guides)
 - [Directives](#directives)
 - [Interview Questions](#interview-questions)
 - [Learning](#learning)
