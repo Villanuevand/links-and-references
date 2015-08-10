@@ -6,6 +6,7 @@ Javascript
 * [Interesting](#interesting)
 * [Patterns](#patterns).
 * [Prototypal Inheritance](#prototypal-inheritance).
+* [Blogs](#blogs)
 
 ## Libraries
   - [Hasha: A Friendly Crypto API](http://dailyjs.com/2015/06/12/hasha-a-friendly-crypto-api/)
@@ -33,3 +34,10 @@ Javascript
 
 ## Prototypal Inheritance
   - [Prototypal Inheritance - Etnassoft (Spanish)](http://www.etnassoft.com/2011/04/15/concepto-de-herencia-prototipica-en-javascript/)  
+  
+## Blogs
+- [Js Rocks](http://jsrocks.org/)
+- [Fernet Js - (Spanish)](http://fernetjs.com/)
+- [Javascript - Douglas Crockford](http://javascript.crockford.com/)
+- [Javascript Guide - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [WTF Js, Javascript irregularities](http://wtfjs.com/)
