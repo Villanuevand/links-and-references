@@ -14,6 +14,7 @@ Javascript
 ## Best Practices
   - [Toptal - Javascript Best Practices](http://www.toptal.com/javascript/tips-and-practice)
   - [idiomatic.js, Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+  - [JSCS — JavaScript Code Style JSCS](http://jscs.info/)
  
   
 ## Inheritance
