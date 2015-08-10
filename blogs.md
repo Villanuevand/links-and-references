@@ -4,5 +4,6 @@ Blogs!
 - [Smashing Magazine](http://www.smashingmagazine.com/)
 - [The Code Dump](http://www.codelord.net/)
 - [Fernet Js](http://fernetjs.com/)
+- [Syntax Success](http://www.syntaxsuccess.com/)
 
 
