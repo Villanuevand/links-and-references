@@ -27,6 +27,7 @@ Angular
 - [A Guide To Transclusion in AngularJS](http://teropa.info/blog/2015/06/09/transclusion.html)
 - [Using ngModel in Custom Directives - Video](https://egghead.io/lessons/angularjs-using-ngmodel-in-custom-directives)
 - [Using NgModelController with Custom Directives](http://www.chroder.com/2014/02/01/using-ngmodelcontroller-with-custom-directives/)
+- [Mastering AngularJS Directives | Tuts+](http://code.tutsplus.com/tutorials/mastering-angularjs-directives--cms-22511)
  
 ##Interview Questions
 - [10 Essential AngularJS Interview Questions*](http://www.toptal.com/angular-js/interview-questions)
