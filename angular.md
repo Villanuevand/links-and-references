@@ -9,6 +9,7 @@ Angular
 - [Resources](#resources)
 - [Modules](#modules)
 - [Optimization](#optimization)
+- [Interesting](#interesting)
 
 ## Core
 - [Understanding apply() and digest() in AngularJS](https://www.airpair.com/javascript/posts/understanding-apply-and-digest-in-angularjs)
@@ -38,6 +39,7 @@ Angular
 - [Build jQuery gallery directive / Spanish](http://house1690.blogspot.com/2015/06/crear-una-directiva-angular-con-una.html)
 - [Angular Tutorial Part 1 of 9 - Rahul Rajat Singh | Code Project  ](http://www.codeproject.com/Articles/993297/Angular-Tutorial-Part-Introduction-to-Angular-js)
 - [AngularJS Hub](http://www.angularjshub.com/)
+- [AngularJS | Tutorials Point](http://www.tutorialspoint.com/angularjs/index.htm)
 
 ##Promises
 - [Promises And Design Patterns In AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
@@ -57,3 +59,6 @@ Top 20 Premium Themes for AngularJS Developers | Codecondo](http://codecondo.com
   
 ## Optimization
 - [Speeding up AngularJS apps with simple optimizations](https://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations)
+
+## Interesting
+- [Angular Component Composition - Part 1 - Introduction](http://nicholasboll.com/articles/angular-component-composition-part-1/)
