@@ -47,6 +47,8 @@ Angular
 - [21 Useful Workflow Tools for AngularJS Developers](http://codecondo.com/useful-workflow-tools-for-angularjs-developers/)
 - [AngularJS Modularization & Dependency Injection](http://tutorials.jenkov.com/angularjs/dependency-injection.html)
 - [15 Best Resources for Developers to Learn AngularJS | Codecondo](http://codecondo.com/15-best-resources-for-developers-to-learn-angularjs/)
+- [
+Top 20 Premium Themes for AngularJS Developers | Codecondo](http://codecondo.com/premium-themes-for-angularjs-developers/)
 
 ##Modules
 - **UI-Router**
