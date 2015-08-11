@@ -40,6 +40,7 @@ Angular
 - [Angular Tutorial Part 1 of 9 - Rahul Rajat Singh | Code Project  ](http://www.codeproject.com/Articles/993297/Angular-Tutorial-Part-Introduction-to-Angular-js)
 - [AngularJS Hub](http://www.angularjshub.com/)
 - [AngularJS | Tutorials Point](http://www.tutorialspoint.com/angularjs/index.htm)
+- [A Better Way to Learn AngularJS | Thinkster.io](https://thinkster.io/a-better-way-to-learn-angularjs/)
 
 ##Promises
 - [Promises And Design Patterns In AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
