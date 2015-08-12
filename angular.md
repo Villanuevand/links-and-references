@@ -58,6 +58,7 @@ Top 20 Premium Themes for AngularJS Developers | Codecondo](http://codecondo.com
 - **UI-Router**
   - [Easier AngularJS Routing with Angular UI Router | Code Magazine](http://www.codemag.com/Article/1505061)
   - [Defining optional parameters with AngularJS UI Router | Bes Foster](http://benfoster.io/blog/ui-router-optional-parameters)
+  - [Diving deep into the AngularUI Router | ngNewsletter](http://www.ng-newsletter.com/posts/angular-ui-router.html)
   
 ## Optimization
 - [Speeding up AngularJS apps with simple optimizations](https://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations)
