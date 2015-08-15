@@ -8,6 +8,7 @@ Javascript
 * [Patterns](#patterns).
 * [Prototypal Inheritance](#prototypal-inheritance).
 * [Blogs](#blogs)
+* [Books](#books)
 
 ## Libraries
   - [Hasha: A Friendly Crypto API](http://dailyjs.com/2015/06/12/hasha-a-friendly-crypto-api/)
@@ -49,3 +50,6 @@ Javascript
 - [Javascript - Douglas Crockford](http://javascript.crockford.com/)
 - [Javascript Guide - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [WTF Js, Javascript irregularities](http://wtfjs.com/)
+
+## Books
+- [10 Free JavaScript Books | Six Revisions](http://sixrevisions.com/javascript/free-javascript-books/)
