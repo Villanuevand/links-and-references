@@ -7,6 +7,7 @@ Angular
 - [Learning](#learning)
 - [Promises](#promises)
 - [Resources](#resources)
+- [Material](#material)
 - [Modules](#modules)
 - [Optimization](#optimization)
 - [Interesting](#interesting)
@@ -54,6 +55,9 @@ Angular
 - [15 Best Resources for Developers to Learn AngularJS | Codecondo](http://codecondo.com/15-best-resources-for-developers-to-learn-angularjs/)
 - [
 Top 20 Premium Themes for AngularJS Developers | Codecondo](http://codecondo.com/premium-themes-for-angularjs-developers/)
+
+## Material 
+- [Getting Started with Angular-Material | Kyle Ledbetter](https://medium.com/materialup-exploring-material-design/getting-started-with-angular-material-3ee3cdb8ecd8)
 
 ##Modules
 - **UI-Router**
