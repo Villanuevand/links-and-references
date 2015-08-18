@@ -67,6 +67,7 @@ Top 20 Premium Themes for AngularJS Developers | Codecondo](http://codecondo.com
   
 ## Optimization
 - [Speeding up AngularJS apps with simple optimizations](https://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations)
+- [Tips and practices to optimize your AngularJS app | Giancarlo Buomprisco](https://medium.com/developers-writing/tips-and-practices-to-optimize-your-angularjs-app-8118550ff808)
 
 ## Interesting
 - [Angular Component Composition - Part 1 - Introduction](http://nicholasboll.com/articles/angular-component-composition-part-1/)
