@@ -19,3 +19,4 @@ Frontend
 
 ## Flex Boxes
 - [Flexbox: Making flexible design with CSS3 (spanish)](http://www.tutosytips.com/flexbox-creando-disenos-flexibles-con-css/)
+- [Laying Out A Flexible Future For Web Design With Flexbox |  Smashing Magazine](http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/)
