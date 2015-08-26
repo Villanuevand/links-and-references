@@ -30,6 +30,7 @@ Angular
 - [Using ngModel in Custom Directives - Video](https://egghead.io/lessons/angularjs-using-ngmodel-in-custom-directives)
 - [Using NgModelController with Custom Directives](http://www.chroder.com/2014/02/01/using-ngmodelcontroller-with-custom-directives/)
 - [Mastering AngularJS Directives | Tuts+](http://code.tutsplus.com/tutorials/mastering-angularjs-directives--cms-22511)
+- [Exploring Angular 1.3: Binding to Directive Controllers | thoughtram Blog](http://blog.thoughtram.io/angularjs/2015/01/02/exploring-angular-1.3-bindToController.html)
  
 ##Interview Questions
 - [10 Essential AngularJS Interview Questions*](http://www.toptal.com/angular-js/interview-questions)
