@@ -45,6 +45,7 @@ Angular
 - [AngularJS | Tutorials Point](http://www.tutorialspoint.com/angularjs/index.htm)
 - [A Better Way to Learn AngularJS | Thinkster.io](https://thinkster.io/a-better-way-to-learn-angularjs/)
 - [AngularJS | Curran Kelleher](https://github.com/curran/screencasts/tree/gh-pages/introToAngular)
+- [AngularJS | Jakob Jenkov, Jenkov.com ](http://tutorials.jenkov.com/angularjs/index.html)
 
 ##Promises
 - [Promises And Design Patterns In AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
