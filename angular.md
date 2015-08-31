@@ -20,6 +20,7 @@ Angular
 - [Factory vs Service vs Provider - Tyler McGinnis](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 - [Providers under the hood - Adrian Castillo](http://blog.crowdint.com/2015/03/18/angularjs-providers-under-the-hood.html)
 - [AngularJS’ Internals In Depth - Smashing Magazine](http://www.smashingmagazine.com/2015/01/angularjs-internals-in-depth/)
+- [$apply vs $digest | EggHead ](https://egghead.io/lessons/angularjs-apply-vs-digest)
 
 ##Style Guides
 - [John Papa - Angular Style Guide ](https://github.com/johnpapa/angular-styleguide)
