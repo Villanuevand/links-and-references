@@ -17,6 +17,7 @@ Javascript
   - [Toptal - Javascript Best Practices](http://www.toptal.com/javascript/tips-and-practice)
   - [idiomatic.js, Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
   - [JSCS — JavaScript Code Style JSCS](http://jscs.info/)
+  - [JavaScript MDN | Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  
 ## Style Guides
 - [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
