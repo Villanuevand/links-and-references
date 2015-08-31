@@ -13,7 +13,8 @@ Angular
 - [Interesting](#interesting)
 
 ## Core
-- [Understanding apply() and digest() in AngularJS](https://www.airpair.com/javascript/posts/understanding-apply-and-digest-in-angularjs)
+- [Understanding Angular’s $apply() and $digest() | SitePoint](http://www.sitepoint.com/understanding-angulars-apply-digest/)
+- [AngularJS $watch() , $digest() and $apply() | Jenkov.com](http://tutorials.jenkov.com/angularjs/watch-digest-apply.html)
 - [Providers - Egghead.io ](https://egghead.io/lessons/angularjs-providers)
 - [Service Providers in AngularJS + Logger Implementation](http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/)
 - [Factory vs Service vs Provider - Tyler McGinnis](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
