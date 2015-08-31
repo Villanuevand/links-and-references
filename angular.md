@@ -33,6 +33,7 @@ Angular
 - [Using NgModelController with Custom Directives](http://www.chroder.com/2014/02/01/using-ngmodelcontroller-with-custom-directives/)
 - [Mastering AngularJS Directives | Tuts+](http://code.tutsplus.com/tutorials/mastering-angularjs-directives--cms-22511)
 - [Exploring Angular 1.3: Binding to Directive Controllers | thoughtram Blog](http://blog.thoughtram.io/angularjs/2015/01/02/exploring-angular-1.3-bindToController.html)
+- [Mastering the Scope of the Directives in AngularJS | Undefined NULL](http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
  
 ##Interview Questions
 - [10 Essential AngularJS Interview Questions*](http://www.toptal.com/angular-js/interview-questions)
