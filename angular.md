@@ -72,3 +72,4 @@ Top 20 Premium Themes for AngularJS Developers | Codecondo](http://codecondo.com
 
 ## Interesting
 - [Angular Component Composition - Part 1 - Introduction](http://nicholasboll.com/articles/angular-component-composition-part-1/)
+- [Easy Form Validation in AngularJS with ngMessages | SitePoint](http://www.sitepoint.com/easy-form-validation-angularjs-ngmessages/)
