@@ -4,6 +4,7 @@ Javascript
 * [Best Practices](#best-practices).
 * [Style Guides](#style-guides)
 * [Inheritance](#inheritance).
+* [Closures](#closures)
 * [Interesting](#interesting)
 * [Patterns](#patterns).
 * [Prototypal Inheritance](#prototypal-inheritance).
@@ -30,6 +31,11 @@ Javascript
 - [Simple JavaScript Inheritance - John Resig](http://ejohn.org/blog/simple-javascript-inheritance/)
 - [JavaScript inheritance patterns](https://medium.com/@PitaJ/javascript-inheritance-patterns-179d8f6c143c)
 
+## Closures
+- [Closures MDN | Mozilla Developers Network](https://developer.mozilla.org/es/docs/Web/JavaScript/Closures).
+- [Understand JavaScript Closures With Ease | Javascriptissexy.com](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+- [Closures en JavaScript: entiéndelos de una vez por todas | Variable Not Found](http://www.variablenotfound.com/2012/10/closures-en-javascript-entiendelos-de.html)
+- [JavaScript Closures Demystified | SitePoint](http://www.sitepoint.com/javascript-closures-demystified/)
 
 ## Interesting
 - [Merge Arrays with JavaScript - David Walsh](http://davidwalsh.name/merge-arrays-javascript)
