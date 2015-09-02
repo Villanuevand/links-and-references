@@ -5,6 +5,7 @@ Javascript
 * [Style Guides](#style-guides)
 * [Inheritance](#inheritance).
 * [Closures](#closures)
+* [Hoisting](#hoisting)
 * [Interesting](#interesting)
 * [Patterns](#patterns).
 * [Prototypal Inheritance](#prototypal-inheritance).
@@ -36,6 +37,9 @@ Javascript
 - [Understand JavaScript Closures With Ease | Javascriptissexy.com](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 - [Closures en JavaScript: entiéndelos de una vez por todas | Variable Not Found](http://www.variablenotfound.com/2012/10/closures-en-javascript-entiendelos-de.html)
 - [JavaScript Closures Demystified | SitePoint](http://www.sitepoint.com/javascript-closures-demystified/)
+
+## Hoisting
+- [Variable Hoisting In JavaScript | Sakshi Tyagi](http://www.tothenew.com/blog/variable-hoisting-in-javascript/)
 
 ## Interesting
 - [Merge Arrays with JavaScript - David Walsh](http://davidwalsh.name/merge-arrays-javascript)
