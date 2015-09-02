@@ -79,6 +79,7 @@ Top 20 Premium Themes for AngularJS Developers | Codecondo](http://codecondo.com
 ## Interesting
 - [Angular Component Composition - Part 1 - Introduction](http://nicholasboll.com/articles/angular-component-composition-part-1/)
 - [AngularJS : copy vs extend | Sakshi Tyagi ](http://www.tothenew.com/blog/angularjs-copy-vs-extend/)
+- [Tricks with angular.extend() | Mike Schwartz](http://moduscreate.com/angularjs-tricks-with-angular-extend/)
 
 ## Authentication
 - [Techniques for authentication in AngularJS applications | Gert Hengeveld](https://medium.com/opinionated-angularjs/techniques-for-authentication-in-angularjs-applications-7bbf0346acec)
