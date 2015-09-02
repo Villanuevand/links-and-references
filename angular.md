@@ -1,5 +1,8 @@
 Angular
 ---
+Angular Oficial Blog: [http://angularjs.blogspot.com/](http://angularjs.blogspot.com/ "AngularJS")
+
+
 - [Core](#core)
 - [Style Guides](#style-guides)
 - [Directives](#directives)
