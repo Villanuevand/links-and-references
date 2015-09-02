@@ -12,6 +12,7 @@ Angular
 - [Optimization](#optimization)
 - [Interesting](#interesting)
 - [Authentication](#authentication)
+- [Form Validation](#form-validation)
 
 ## Core
 - [Understanding Angular’s $apply() and $digest() | SitePoint](http://www.sitepoint.com/understanding-angulars-apply-digest/)
@@ -77,10 +78,10 @@ Top 20 Premium Themes for AngularJS Developers | Codecondo](http://codecondo.com
 
 ## Interesting
 - [Angular Component Composition - Part 1 - Introduction](http://nicholasboll.com/articles/angular-component-composition-part-1/)
-- [Easy Form Validation in AngularJS with ngMessages | SitePoint](http://www.sitepoint.com/easy-form-validation-angularjs-ngmessages/)
 - [AngularJS : copy vs extend | Sakshi Tyagi ](http://www.tothenew.com/blog/angularjs-copy-vs-extend/)
 
 ## Authentication
 - [Techniques for authentication in AngularJS applications | Gert Hengeveld](https://medium.com/opinionated-angularjs/techniques-for-authentication-in-angularjs-applications-7bbf0346acec)
 
-
+## Form Validation
+- [Easy Form Validation in AngularJS with ngMessages | SitePoint](http://www.sitepoint.com/easy-form-validation-angularjs-ngmessages/)
