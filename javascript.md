@@ -6,6 +6,7 @@ Javascript
 * [Inheritance](#inheritance).
 * [Closures](#closures)
 * [Hoisting](#hoisting)
+* [IIFE](#iife)
 * [Interesting](#interesting)
 * [Patterns](#patterns).
 * [Prototypal Inheritance](#prototypal-inheritance).
@@ -40,6 +41,9 @@ Javascript
 
 ## Hoisting
 - [Variable Hoisting In JavaScript | Sakshi Tyagi](http://www.tothenew.com/blog/variable-hoisting-in-javascript/)
+
+## IIFE
+- [Inmediatly Invoked Function Expressions | Etnassoft (Spanish)](http://www.etnassoft.com/2011/03/14/funciones-autoejecutables-en-javascript/)
 
 ## Interesting
 - [Merge Arrays with JavaScript - David Walsh](http://davidwalsh.name/merge-arrays-javascript)
