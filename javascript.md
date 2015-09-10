@@ -50,6 +50,7 @@ Javascript
 - [What is the difference between call and apply?](http://stackoverflow.com/questions/1986896/what-is-the-difference-between-call-and-apply)
 - [Function Declaration vs Function Expressions | Etnassoft (Spanish)](http://www.etnassoft.com/2011/09/02/funciones-declaradas-vs-funciones-expresadas-en-javascript/)
 - [Difference Between ‘null’ and ‘undefined’ in JavaScript | Sakshi Tyagi ](http://www.tothenew.com/blog/difference-between-undefined-and-null-in-javascript/)
+- [Functions | Mozilla Developer Network (Spanish)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Funciones)
 
 
 ## Patterns
