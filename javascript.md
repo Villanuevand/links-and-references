@@ -51,7 +51,8 @@ Javascript
 - [Function Declaration vs Function Expressions | Etnassoft (Spanish)](http://www.etnassoft.com/2011/09/02/funciones-declaradas-vs-funciones-expresadas-en-javascript/)
 - [Difference Between ‘null’ and ‘undefined’ in JavaScript | Sakshi Tyagi ](http://www.tothenew.com/blog/difference-between-undefined-and-null-in-javascript/)
 - [Functions | Mozilla Developer Network (Spanish)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Funciones)
-
+- [ 27 javascript learning resources | Dev Leaks](http://devleaks.com/tag/javascript-learning)
+- [JavaScripture The bridge between W3C, WHATWG and ECMAScript](http://www.javascripture.com/)
 
 ## Patterns
   - [Module Pattern in depth - Etnassof (Spanish)](http://www.etnassoft.com/2011/04/11/el-patron-de-modulo-en-javascript-en-profundidad/).
