@@ -40,6 +40,7 @@ Angular Oficial Blog: [http://angularjs.blogspot.com/](http://angularjs.blogspot
 - [Exploring Angular 1.3: Binding to Directive Controllers | thoughtram Blog](http://blog.thoughtram.io/angularjs/2015/01/02/exploring-angular-1.3-bindToController.html)
 - [Mastering the Scope of the Directives in AngularJS | Undefined NULL](http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
 - [Explicitly providing ng-model to DOM elements | Sakshi Tyagi ](http://www.tothenew.com/blog/explicitly-providing-ng-model-to-dom-elements/)
+- [3 Ways to Master AngularJS Directives | Semaphore](http://blog.semaphore-software.com/3-ways-to-master-angularjs-directives.html)
  
 ##Interview Questions
 - [10 Essential AngularJS Interview Questions*](http://www.toptal.com/angular-js/interview-questions)
