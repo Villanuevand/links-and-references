@@ -53,6 +53,7 @@ Javascript
 - [Functions | Mozilla Developer Network (Spanish)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Funciones)
 - [ 27 javascript learning resources | Dev Leaks](http://devleaks.com/tag/javascript-learning)
 - [JavaScripture The bridge between W3C, WHATWG and ECMAScript](http://www.javascripture.com/)
+- [What You Should Already Know about JavaScript Scope | spin.atomicobject.com](http://spin.atomicobject.com/2014/10/20/javascript-scope-closures/)
 
 ## Patterns
   - [Module Pattern in depth - Etnassof (Spanish)](http://www.etnassoft.com/2011/04/11/el-patron-de-modulo-en-javascript-en-profundidad/).
