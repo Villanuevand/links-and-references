@@ -44,6 +44,7 @@ Angular Oficial Blog: [http://angularjs.blogspot.com/](http://angularjs.blogspot
  
 ##Interview Questions
 - [10 Essential AngularJS Interview Questions*](http://www.toptal.com/angular-js/interview-questions)
+- [What to Expect and How to Prepare for Your Angular.js Interview: Part 1](https://medium.com/@egensolutions/what-to-expect-and-how-to-prepare-for-your-angular-js-interview-part-1-2ad0ef03064f#.irf2w49ik)
  
 ##Learning
 - [ng-Learn](http://ng-learn.org/)
