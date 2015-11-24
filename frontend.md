@@ -17,6 +17,8 @@ Frontend
 - [20+ Docs and Guides for Front-end Developers (No. 4) | SitePoint](http://www.sitepoint.com/20-docs-guides-front-end-developers-4/)
 - [20+ Docs and Guides for Front-end Developers (No. 5) | SitePoint](http://www.sitepoint.com/20-docs-guides-front-end-developers-5/)
 - [Front-end Code Standards | Isobar ](http://isobar-idev.github.io/code-standards/)
+- [Learn to Code Advanced
+HTML & CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 
 
 ## Flex Boxes
