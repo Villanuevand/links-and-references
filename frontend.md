@@ -11,6 +11,7 @@ Frontend
 
 
 ## Docs and Guides
+- [Front-end Developer Handbook](http://www.frontendhandbook.com/)
 - [20+ Docs and Guides for Front-end Developers | SitePoint](http://www.sitepoint.com/20-docs-guides-front-end-developers/)
 - [20+ Docs and Guides for Front-end Developers (No. 2) | SitePoint](http://www.sitepoint.com/20-more-docs-guides-front-end-developers/)
 - [20+ Docs and Guides for Front-end Developers (No. 3) | SitePoint](http://www.sitepoint.com/another-20-docs-guides-front-end-developers/)
