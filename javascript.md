@@ -63,6 +63,7 @@ Javascript
 
 ## Prototypal Inheritance
   - [Prototypal Inheritance - Etnassoft (Spanish)](http://www.etnassoft.com/2011/04/15/concepto-de-herencia-prototipica-en-javascript/)  
+  - [JavaScript Prototype Chains, Scope Chains, and Performance: What You Need to Know | Toptal.com](http://www.toptal.com/javascript/javascript-prototypes-scopes-and-performance-what-you-need-to-know)
   
 ## Blogs
 - [Js Rocks](http://jsrocks.org/)
