@@ -54,6 +54,7 @@ Javascript
 - [ 27 javascript learning resources | Dev Leaks](http://devleaks.com/tag/javascript-learning)
 - [JavaScripture The bridge between W3C, WHATWG and ECMAScript](http://www.javascripture.com/)
 - [What You Should Already Know about JavaScript Scope | spin.atomicobject.com](http://spin.atomicobject.com/2014/10/20/javascript-scope-closures/)
+- [A re-introduction to JavaScript (JS tutorial) | Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ## Patterns
   - [Module Pattern in depth - Etnassof (Spanish)](http://www.etnassoft.com/2011/04/11/el-patron-de-modulo-en-javascript-en-profundidad/).
