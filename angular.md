@@ -16,6 +16,7 @@ Angular Oficial Blog: [http://angularjs.blogspot.com/](http://angularjs.blogspot
 - [Interesting](#interesting)
 - [Authentication](#authentication)
 - [Form Validation](#form-validation)
+- [Testing](#testing)
 
 ## Core
 - [Understanding Angular’s $apply() and $digest() | SitePoint](http://www.sitepoint.com/understanding-angulars-apply-digest/)
@@ -92,3 +93,6 @@ Top 20 Premium Themes for AngularJS Developers | Codecondo](http://codecondo.com
 
 ## Form Validation
 - [Easy Form Validation in AngularJS with ngMessages | SitePoint](http://www.sitepoint.com/easy-form-validation-angularjs-ngmessages/)
+
+## Testing
+- [Not testing your Angular code? Here's how to start | DAVE CEDDIA](https://daveceddia.com/testing-angular-part-1-karma-setup)
