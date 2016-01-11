@@ -11,3 +11,4 @@ Links and references about web development topics.
 - [Frontend](https://github.com/Villanuevand/links-and-references/blob/master/frontend.md "Frontend").
 - [Wordpress](https://github.com/Villanuevand/links-and-references/blob/master/wordpress.md "Wordpress").
 - [Blogs](https://github.com/Villanuevand/links-and-references/blob/master/blogs.md "Blogs").
+- [Testing](https://github.com/Villanuevand/links-and-references/blob/master/testing.md "Testing").
