@@ -69,6 +69,7 @@ Angular Oficial Blog: [http://angularjs.blogspot.com/](http://angularjs.blogspot
 - [15 Best Resources for Developers to Learn AngularJS | Codecondo](http://codecondo.com/15-best-resources-for-developers-to-learn-angularjs/)
 - [
 Top 20 Premium Themes for AngularJS Developers | Codecondo](http://codecondo.com/premium-themes-for-angularjs-developers/)
+- [ng-best-practices | Valeri Karpov](https://www.outlearn.com/learn/vkarpov15/ng-best-practices)
 
 ## Material 
 - [Getting Started with Angular-Material | Kyle Ledbetter](https://medium.com/materialup-exploring-material-design/getting-started-with-angular-material-3ee3cdb8ecd8)
