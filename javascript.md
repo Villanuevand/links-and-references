@@ -76,3 +76,4 @@ Javascript
 
 ## Books
 - [10 Free JavaScript Books | Six Revisions](http://sixrevisions.com/javascript/free-javascript-books/)
+- [JavaScript eBooks | All IT eBooks](http://www.allitebooks.com/web-development/javascript/)
