@@ -1,6 +1,6 @@
-Angular
+AngularJS
 ---
-Angular Oficial Blog: [http://angularjs.blogspot.com/](http://angularjs.blogspot.com/ "AngularJS")
+AngularJS Oficial Blog: [http://angularjs.blogspot.com/](http://angularjs.blogspot.com/ "AngularJS")
 
 
 - [Core](#core)
