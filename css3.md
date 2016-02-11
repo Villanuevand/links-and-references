@@ -9,6 +9,7 @@ CSS3
 - [Block formatting context | MDN Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Block_formatting_context)
 - [Los 30 selectores CSS que debes memorizar | Code Tuts](http://code.tutsplus.com/es/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - [CSS Complex Selectors](http://learn.shayhowe.com/advanced-html-css/complex-selectors/)
+- [Useful :nth-child Recipes](https://css-tricks.com/useful-nth-child-recipies/)
 
 
 ## Transforms
