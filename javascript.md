@@ -12,6 +12,7 @@ Javascript
 * [Prototypal Inheritance](#prototypal-inheritance).
 * [Blogs](#blogs)
 * [Books](#books)
+* [Functional Programming](#functional-programming)
 
 ## Libraries
   - [Hasha: A Friendly Crypto API](http://dailyjs.com/2015/06/12/hasha-a-friendly-crypto-api/)
@@ -77,3 +78,7 @@ Javascript
 ## Books
 - [10 Free JavaScript Books | Six Revisions](http://sixrevisions.com/javascript/free-javascript-books/)
 - [JavaScript eBooks | All IT eBooks](http://www.allitebooks.com/web-development/javascript/)
+
+## Functional Programming
+- [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 1 | James Sinclair](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
+
