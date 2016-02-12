@@ -82,4 +82,5 @@ Javascript
 ## Functional Programming
 - [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 1 | James Sinclair](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
 - [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 2 | James Sinclair](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-arrays)
+- - [A GENTLE INTRODUCTION TO FUNCTIONAL JAVASCRIPT: PART 3 | James Sinclair](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-functions)
 
