@@ -57,6 +57,7 @@ Javascript
 - [What You Should Already Know about JavaScript Scope | spin.atomicobject.com](http://spin.atomicobject.com/2014/10/20/javascript-scope-closures/)
 - [A re-introduction to JavaScript (JS tutorial) | Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [The Great Mystery of the Tilde(~) | Joe Zimmerman](http://www.joezimjs.com/javascript/great-mystery-of-the-tilde/)
+- [Leveling Up Your JavaScript | Raymond Camden](http://developer.telerik.com/featured/leveling-up-your-javascript)
 
 ## Patterns
   - [Module Pattern in depth - Etnassof (Spanish)](http://www.etnassoft.com/2011/04/11/el-patron-de-modulo-en-javascript-en-profundidad/).
