@@ -13,3 +13,4 @@ The evolution of Angular, made in typescript. Check the official web site, [http
 
 ## Video Tutorials
 - [Angular 2 Quickstart Tutorials 2016 ](https://www.youtube.com/playlist?list=PL55RiY5tL51olfU2IEqr455EYLkrhmh3n)
+- [Angular 2 by Mindspace](https://www.youtube.com/playlist?list=PL55RiY5tL51qIb5VW2ywbT12UZeqmzBAu)
